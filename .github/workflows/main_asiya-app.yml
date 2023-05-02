@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'asiya-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2607FEA33271467CB064988F7C3C1ED6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5CAEEDA4ACFA482C8A8611E65E30F45E }}
